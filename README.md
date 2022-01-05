@@ -4,6 +4,7 @@ This method can be used in ESP32, ESP8266 and other microcontrollers. The obtain
 
 ***
 ### Считывание показаний из счетчиков электроэнергии серии ["Нева"](https://www.meters.taipit.ru/) (производства компании "Тайпит") через оптический порт (IrDA) с помощью Ардуино.
+![Умные дома на связи со счетчиком](https://user-images.githubusercontent.com/10677129/148292316-35875fd2-528c-4485-911d-35341f7fa3cb.png)
 
 #### Что умеет:
 1. Работа с однофазными или трехфазными счётчиками.
